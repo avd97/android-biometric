@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BiometricDetection</string>
+    <string name="please_place_user_finger_for_authentication">Please place user finger for authentication</string>
+    <string name="one_touch_sing_in">One Touch Sing In</string>
+</resources>
